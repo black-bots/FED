@@ -1,19 +1,3 @@
-Table of Contents
-Table of Contents
-The Booking App
-Setup and Evaluation
-Front-end Architecture
-Folder Structure
-Component Architecture
-Naming Conventions
-Use of Dependencies
-Data Fetching
-Unit Testing
-Future Considerations
-Honour Code
-The Booking App
-This Booking App was created as the final capstone project of the Meta Front-End Developer Certification.
-
 Preview: Little Lemon is a family-owned Mediterranean restaurant that blends traditional recipes with a modern twist. Our goal is to provide our customers with a unique dining experience that will take them on a culinary journey through the Mediterranean.
 
 Instructions Received: To create a modern responsive Front-end for the Little Lemon app with a Bookings feature which they lack at present.
